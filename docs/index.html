@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Eval Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>AI Eval Tracker</h1>
+    <p>Latest evaluation metrics fetched from METR, GDPval, and ARC Prize sources.</p>
+  </header>
+
+  <main>
+    <section id="summary">
+      <h2>Metrics</h2>
+      <div id="metrics"></div>
+    </section>
+    <section id="history">
+      <p>Historical data is stored in <code>docs/data/metrics.jsonl</code>.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Auto-updated via GitHub Actions every six hours.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
