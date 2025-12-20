@@ -45,7 +45,7 @@
     "value": 24.0,
     "unit": "percent",
     "evidence": "or ARC Prize 2025 - nearly identical to ARC Prize 2024. The top Kaggle score winner reached a new SOTA on the ARC-AGI-2 private dataset of 24% for $0.20/task. We also had 90 papers submitted, up from 47 last year – and m",
-    "timestamp": "2025-12-20T03:42:51.996315+00:00",
+    "timestamp": "2025-12-20T06:56:14.927178+00:00",
     "source": "ARC Prize results and analysis",
     "url": "https://arcprize.org/blog/arc-prize-2025-results-analysis"
   },
@@ -55,7 +55,7 @@
     "value": 0.2,
     "unit": "usd_per_task",
     "evidence": "to ARC Prize 2024. The top Kaggle score winner reached a new SOTA on the ARC-AGI-2 private dataset of 24% for $0.20/task. We also had 90 papers submitted, up from 47 last year – and many of them are impressively strong!",
-    "timestamp": "2025-12-20T03:42:51.996315+00:00",
+    "timestamp": "2025-12-20T06:56:14.927178+00:00",
     "source": "ARC Prize results and analysis",
     "url": "https://arcprize.org/blog/arc-prize-2025-results-analysis"
   }
