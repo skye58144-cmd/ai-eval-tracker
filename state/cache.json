@@ -3,12 +3,12 @@
     "etag": null,
     "last_modified": "Tue, 07 Oct 2025 01:07:22 GMT",
     "content_hash": "a76b4730cf053ac244e84a08b3ddb0888e5afd7432049dec0f4d3298336816fc",
-    "last_fetched": "2025-12-29T07:02:58.282934+00:00"
+    "last_fetched": "2025-12-29T13:51:24.891316+00:00"
   },
   "https://arcprize.org/blog/arc-prize-2025-results-analysis": {
-    "etag": "W/\"694f0208-ca54\"",
-    "last_modified": "Fri, 26 Dec 2025 21:45:44 GMT",
+    "etag": "W/\"694f0209-ca54\"",
+    "last_modified": "Fri, 26 Dec 2025 21:45:45 GMT",
     "content_hash": "e8008c99ac56d4e8d16c9bbbb16a966b11bbfcde9fcbad3ecdfc00bb4ca7674c",
-    "last_fetched": "2025-12-29T07:02:58.595271+00:00"
+    "last_fetched": "2025-12-29T13:51:24.960767+00:00"
   }
 }
